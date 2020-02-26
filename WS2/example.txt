@@ -1,0 +1,8 @@
+Program started
+Hey there, This content is located in a file called exmaple.txt.
+Cheers,
+Mika
+This one is from another file.
+Program Ended
+https://github.com/mjstenbe/R0317-MEAN
+https://expressjs.com/
